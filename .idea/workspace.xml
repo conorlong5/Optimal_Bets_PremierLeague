@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8d4435b-4435-49c5-a684-432ace2eb0ef" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/arbitraje_tracktake.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/arbitraje_tracktake.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/arbitraje_tracktake_timeline.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/arbitraje_tracktake_timeline.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/comision_casas.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/comision_casas.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/momios_hda.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/momios_hda.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/regresion_tt.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/regresion_tt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/spread_momios.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/spread_momios.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figures/Football_UK/varianza_momio.png" beforeDir="false" afterPath="$PROJECT_DIR$/Figures/Football_UK/varianza_momio.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/eda/eda_football_uk_final.Rmd" beforeDir="false" afterPath="$PROJECT_DIR$/Source/eda/eda_football_uk_final.Rmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/statistical_learning_model/deeplearning_epl_models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Source/statistical_learning_model/deeplearning_epl_models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/web_scrapping_data/webscrap_sofifa.py" beforeDir="false" afterPath="$PROJECT_DIR$/Source/web_scrapping_data/webscrap_sofifa.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/web_scrapping_data/webscrap_understat.R" beforeDir="false" afterPath="$PROJECT_DIR$/Source/web_scrapping_data/webscrap_understat.R" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2sot6dBGxvVNZKj8UnfVDXwsVMe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.webdownload_footballuk.executor": "Run",
+    "Python.webscrap_sofifaAll.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/conorlong/Desktop/DS 340W/GitHubCode/Optimal_Bets_PremierLeague",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-PY-242.21829.153" />
+        <option value="bundled-python-sdk-464836ebc622-b74155a9e76b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.21829.153" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8d4435b-4435-49c5-a684-432ace2eb0ef" name="Changes" comment="" />
+      <created>1739133580943</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739133580943</updated>
+      <workItem from="1739133582018" duration="1725000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Optimal_Bets_PremierLeague$webscrap_sofifaAll.coverage" NAME="webscrap_sofifaAll Coverage Results" MODIFIED="1739133648776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/web_scrapping_data" />
+    <SUITE FILE_PATH="coverage/Optimal_Bets_PremierLeague$webdownload_footballuk.coverage" NAME="webdownload_footballuk Coverage Results" MODIFIED="1739133847015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Source/web_scrapping_data" />
+  </component>
+</project>
