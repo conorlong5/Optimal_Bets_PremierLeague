@@ -1,3 +1,20 @@
+# XGBoost Implementation - Conor Long, 2025
+For this research project, I chose to look into machine learning prediction models for sports betting. Specifically, I chose this parent paper researching deep learning models for the English Premier League. 
+
+To experiment, I added XGBoost implementation into the preexisting code. It uses the same data, same features, same metrics, just using XGBoost instead. 
+
+To reproduce, I highly recommend running this locally, since Google Colab will take a very, very long time. 
+1. Clone repo to local machine
+2. All data should already be uploaded, tidied, and formatted, if using what is inside this GitHub repo
+3. Go to Source/statistical_learning_model/deeplearning_epl_models.ipynb to run the modeling and reproduce the results.
+
+Once you do this, everything should work as normal. You should see the loss and accuracy for both dropout model from the parent paper, and also all my XGBoost implementations. Check out the edit history for the code and compare all my changes. This was a lot harder than expected, and needed to change over 6000 lines (I think, if I am reading it correctly). 
+
+Although the results were unfavorable, I learned valuable coding lessons and how the data science pipeline works. 
+
+
+Below is the original documentation left from the parent paper; all credit goes to them. Do not follow their instructions, though, it is way more work than needed.
+
 # Optimal Bets for English Premier League: B.S. in Applied Mathematics Thesis, ITAM 2022
 
 Betting algorithm to find the optimal stake amount to maximize utility subject to the risk appetite of the player -logarithmic or quadratic- given the data.
